@@ -16,5 +16,10 @@ namespace Sueldo_empleados
         {
             InitializeComponent();
         }
+
+        private void dataGridView_empleado_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
